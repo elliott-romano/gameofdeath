@@ -2,7 +2,7 @@
 
 let paused = false;
 
-speedoflife = 3;
+speedoflife = 2;
 
 let cols, rows;
 let w = 40;
